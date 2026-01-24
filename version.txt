@@ -1,6 +1,1 @@
-6.0 JARVIS
-bsms
-jdk
-hsjs
-jsks
-jdks
+JARVIS 7.0
